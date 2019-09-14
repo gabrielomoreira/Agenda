@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint_name">Name</string>
+    <string name="hint_telefone">Telefone</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_cidade">Cidade</string>
+    <string name="salvar">Salvar</string>
+    <string name="limpar">Limpar</string>
+    <string name="ver_contatos">Ver contatos</string>
+</resources>
